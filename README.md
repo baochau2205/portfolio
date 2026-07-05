@@ -1,2 +1,4 @@
-# portfolio
-Personal frontend developer portfolio built with HTML and CSS. Includes responsive design, modern UI layout, and project showcase section.
+## 🌐 Live Demo
+
+🚀 View my portfolio here:  
+👉 [Click to open website](https://baochau2205.github.io/portfolio/)
